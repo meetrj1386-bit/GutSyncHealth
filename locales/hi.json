@@ -1,0 +1,141 @@
+{
+  "app_name": "GutSync",
+  "tagline": "अपने पेट के स्वास्थ्य को ट्रैक करें",
+  
+  "tabs": {
+    "home": "होम",
+    "log_meal": "भोजन लॉग",
+    "check_in": "चेक इन",
+    "ask_ai": "AI से पूछें",
+    "cabinet": "दवाई",
+    "insights": "इनसाइट्स"
+  },
+  
+  "home": {
+    "good_morning": "सुप्रभात",
+    "good_afternoon": "नमस्कार",
+    "good_evening": "शुभ संध्या",
+    "gut_health_today": "आज का पेट स्वास्थ्य",
+    "looking_great": "बहुत अच्छा",
+    "looking_good": "अच्छा",
+    "looking_ok": "ठीक है",
+    "needs_attention": "ध्यान देने की जरूरत",
+    "tap_to_improve": "सुधार के लिए टैप करें",
+    "quick_actions": "त्वरित कार्य",
+    "todays_meals": "आज के भोजन",
+    "no_meals_today": "आज कोई भोजन लॉग नहीं",
+    "log_first_meal": "अपना पहला भोजन लॉग करें",
+    "health_question": "स्वास्थ्य संबंधी प्रश्न?",
+    "ask_about": "पेट स्वास्थ्य, दवाइयों के बारे में पूछें...",
+    "medicine_cabinet": "दवाई कैबिनेट",
+    "manage": "प्रबंधित करें"
+  },
+  
+  "log_meal": {
+    "view_history": "भोजन इतिहास देखें",
+    "meal_type": "भोजन का प्रकार",
+    "breakfast": "नाश्ता",
+    "lunch": "दोपहर का भोजन",
+    "dinner": "रात का भोजन",
+    "snack": "स्नैक",
+    "photo_optional": "फोटो (वैकल्पिक)",
+    "camera": "कैमरा",
+    "gallery": "गैलरी",
+    "what_did_you_eat": "आपने क्या खाया?",
+    "placeholder": "जैसे, 2 रोटी दाल और दही के साथ",
+    "tip": "बेहतर विश्लेषण के लिए विस्तार से लिखें",
+    "log_meal": "भोजन लॉग करें",
+    "logged": "लॉग हो गया!",
+    "meal_saved": "आपका भोजन सहेजा गया",
+    "add_meal": "भोजन जोड़ें",
+    "describe_what_you_ate": "कृपया बताएं कि आपने क्या खाया"
+  },
+  
+  "analysis": {
+    "meal_history": "भोजन इतिहास",
+    "analysis": "विश्लेषण",
+    "back_to_history": "इतिहास पर वापस",
+    "analyzing": "पोषण का विश्लेषण...",
+    "nutrition_estimate": "पोषण अनुमान",
+    "our_assumptions": "हमारी धारणाएं",
+    "based_on_description": "आपके विवरण के आधार पर:",
+    "estimated_gut_impact": "अनुमानित पेट प्रभाव",
+    "calories": "कैलोरी",
+    "protein": "प्रोटीन",
+    "carbs": "कार्ब्स",
+    "fat": "वसा",
+    "disclaimer": "ये केवल अनुमान हैं। वास्तविक मान भिन्न हो सकते हैं।",
+    "analyze": "विश्लेषण",
+    "no_meals_logged": "अभी तक कोई भोजन लॉग नहीं"
+  },
+  
+  "check_in": {
+    "daily_check_in": "दैनिक चेक-इन",
+    "how_feeling": "आज आप कैसा महसूस कर रहे हैं?",
+    "energy_level": "ऊर्जा स्तर",
+    "gut_health": "पेट स्वास्थ्य",
+    "mood": "मूड",
+    "awful": "बहुत खराब",
+    "bad": "खराब",
+    "ok": "ठीक",
+    "good": "अच्छा",
+    "great": "बहुत अच्छा",
+    "notes": "नोट्स (वैकल्पिक)",
+    "anything_to_note": "आज के बारे में कुछ नोट करना है?",
+    "submit": "चेक-इन जमा करें",
+    "checked_in": "चेक इन हो गया!",
+    "recorded": "आपका चेक-इन रिकॉर्ड हो गया"
+  },
+  
+  "ask_ai": {
+    "title": "AI स्वास्थ्य सहायक",
+    "disclaimer": "केवल जानकारी के लिए। चिकित्सा सलाह नहीं।",
+    "placeholder": "पेट स्वास्थ्य, पोषण के बारे में पूछें...",
+    "suggestions": {
+      "foods": "पेट के लिए कौन से खाद्य पदार्थ अच्छे हैं?",
+      "bloating": "पेट फूलना कैसे कम करें?",
+      "probiotics": "पाचन के लिए सबसे अच्छे प्रोबायोटिक्स?"
+    }
+  },
+  
+  "cabinet": {
+    "title": "दवाई कैबिनेट",
+    "medications": "दवाइयां",
+    "supplements": "सप्लीमेंट्स",
+    "add_medication": "दवाई जोड़ें",
+    "add_supplement": "सप्लीमेंट जोड़ें",
+    "no_medications": "कोई दवाई नहीं जोड़ी",
+    "no_supplements": "कोई सप्लीमेंट नहीं जोड़ा",
+    "daily": "रोज़",
+    "twice_daily": "दिन में दो बार",
+    "as_needed": "जरूरत के अनुसार"
+  },
+  
+  "settings": {
+    "title": "सेटिंग्स",
+    "account": "खाता",
+    "profile": "प्रोफाइल",
+    "notifications": "सूचनाएं",
+    "data": "डेटा",
+    "export_data": "डेटा निर्यात करें",
+    "clear_data": "सभी डेटा साफ़ करें",
+    "about": "जानकारी",
+    "privacy_policy": "गोपनीयता नीति",
+    "terms": "सेवा की शर्तें",
+    "version": "संस्करण",
+    "logout": "लॉग आउट",
+    "logout_confirm": "क्या आप लॉग आउट करना चाहते हैं?"
+  },
+  
+  "common": {
+    "cancel": "रद्द करें",
+    "save": "सहेजें",
+    "delete": "हटाएं",
+    "edit": "संपादित करें",
+    "done": "हो गया",
+    "got_it": "समझ गया",
+    "today": "आज",
+    "yesterday": "कल",
+    "loading": "लोड हो रहा है..."
+  }
+}
