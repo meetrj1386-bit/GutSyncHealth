@@ -1,0 +1,13 @@
+Asset Placeholders
+==================
+
+You need to add these image files:
+- icon.png (1024x1024) - App icon
+- splash.png (1284x2778) - Splash screen
+- adaptive-icon.png (1024x1024) - Android adaptive icon
+- favicon.png (48x48) - Web favicon
+
+For a gut health app, consider:
+- Teal/green color theme (#0D9488)
+- Leaf or digestive system icon
+- Clean, medical-style design
